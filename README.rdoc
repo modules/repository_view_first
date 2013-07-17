@@ -1,0 +1,3 @@
+= repository_view_first
+
+Show source on file click in redmine repository (by defaults its changeset)
